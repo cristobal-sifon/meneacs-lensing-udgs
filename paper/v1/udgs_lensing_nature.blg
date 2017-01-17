@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/MacPorts 2015_1)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: udgs_lensing_nature.aux
+The style file: naturemag.bst
+Database file #1: bibliography.bib
+You've used 3 entries,
+            2348 wiz_defined-function locations,
+            997 strings with 9308 characters,
+and the built_in function-call counts, 1222 in all, are:
+= -- 77
+> -- 36
+< -- 0
++ -- 18
+- -- 9
+* -- 163
+:= -- 142
+add.period$ -- 12
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 112
+empty$ -- 106
+format.name$ -- 12
+if$ -- 234
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 27
+newline$ -- 26
+num.names$ -- 3
+pop$ -- 14
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 24
+swap$ -- 120
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 6
+width$ -- 4
+write$ -- 46

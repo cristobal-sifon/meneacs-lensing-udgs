@@ -1,0 +1,43 @@
+### Halo Model ###
+
+path              data/redshift/redshift_0.0_0.5-z_0.00_0.15-rmax_3.0/
+model             fullnfw_single     # the name of the halo model python function
+# Halo model parameters
+hm_param          sat_profile    function    nfw.esd
+hm_param          group_profile  function    nfw.esd_offset
+hm_param          Rsat           read        hist-logdistBCG.dat 0
+hm_param          n_Rsat1        read        hist-logdistBCG.dat 1
+hm_param          fcsat          fixed        0.5
+hm_param          Msat1          uniform      1e7     1e14      5e11
+hm_param          chost          uniform      0        20         5
+hm_param          Mhost1         uniform     1e12     1e16      9e14
+hm_param          zgal           read        avgs-redshift.dat 1
+hm_param          Om             read        cosmology.txt 0
+hm_param          Ol             read        cosmology.txt 1
+hm_param          h              read        cosmology.txt 2
+# these are extras returned by the model; last column are the fits formats (see pyfits docs)
+hm_output         esd1                           14E
+hm_output         esd_sat1                       14E
+hm_output         esd_host1                      14E
+
+
+
+### Parameter Sampling ###
+path_data            data/redshift/redshift_0.0_0.5-z_0.00_0.15-rmax_3.0/
+data                 esd_*.dat            0,1 # files containing the ESD profile.
+                                              # Columns are (R,ESD_t[,1+K(R)]). Should be one file
+                                              # per lens bin
+exclude_bins         0,1,13                      # bins to be excluded from the analysis (numbering starts at zero)
+path_covariance      data/redshift/redshift_0.0_0.5-z_0.00_0.15-rmax_3.0/
+covariance           covariance.dat   4,6
+                                              # Columns are (cov[,1+K(R)]).
+sampler_output       output/fullnfw_halfduffy-redshift_0.0_0.5-z_0.00_0.15-rmax_3.0.fits
+sampler              emcee                    # MCMC sampler
+nwalkers	         500
+nsteps		         400
+nburn		         0 
+thin		         1 
+k		             7
+threads		         8
+sampler_type         ensemble
+
