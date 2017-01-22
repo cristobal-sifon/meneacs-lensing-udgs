@@ -72,6 +72,10 @@
   {10.1088/2041-8205/807/1/L2}, \href
   {http://adsabs.harvard.edu/abs/2015ApJ...807L...2K} {807, L2}
 
+\bibitem[\protect\citeauthoryear{{Li} et~al.,}{{Li} et~al.}{2016}]{li16}
+{Li} R.,  et~al., 2016, \mn@doi [\mnras] {10.1093/mnras/stw494}, \href
+  {http://adsabs.harvard.edu/abs/2016MNRAS.458.2573L} {458, 2573}
+
 \bibitem[\protect\citeauthoryear{{Luppino} \& {Kaiser}}{{Luppino} \&
   {Kaiser}}{1997}]{luppino97}
 {Luppino} G.~A.,  {Kaiser} N.,  1997, \apj, \href
@@ -94,12 +98,6 @@
   {Prada} F.,  2016, preprint, \href
   {http://adsabs.harvard.edu/abs/2016arXiv160304057M} {} (\mn@eprint {arXiv}
   {1603.04057})
-
-\bibitem[\protect\citeauthoryear{{Mu{\~n}oz} et~al.,}{{Mu{\~n}oz}
-  et~al.}{2015}]{munoz15}
-{Mu{\~n}oz} R.~P.,  et~al., 2015, \mn@doi [\apjl]
-  {10.1088/2041-8205/813/1/L15}, \href
-  {http://adsabs.harvard.edu/abs/2015ApJ...813L..15M} {813, L15}
 
 \bibitem[\protect\citeauthoryear{{Navarro}, {Frenk}  \& {White}}{{Navarro}
   et~al.}{1995}]{nfw95}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/MacPorts 2015_1) (preloaded format=pdflatex 2015.7.21)  19 JAN 2017 13:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/MacPorts 2015_1) (preloaded format=pdflatex 2015.7.21)  22 JAN 2017 15:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -684,71 +684,80 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `lastpage' on page 1 undefined on input line 130.
+LaTeX Warning: Reference `lastpage' on page 1 undefined on input line 129.
 
-LaTeX Font Info:    Try loading font information for OMS+txr on input line 130.
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 129.
 
 (/opt/local/share/texmf-texlive/tex/latex/txfonts/omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <8> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 130.
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 129.
  [1{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 1286) in paragraph at lines 179--180
+Underfull \hbox (badness 1286) in paragraph at lines 178--179
 []\OT1/txr/m/n/9 Following the orig-i-nal def-i-ni-tion by [][]van Dokkum et al
 .[][]
  []
 
-<logmstar_redshift.pdf, id=141, 361.35pt x 289.08pt>
+<logmstar_redshift.pdf, id=143, 361.35pt x 289.08pt>
 File: logmstar_redshift.pdf Graphic file (type pdf)
 
 <use logmstar_redshift.pdf>
-Package pdftex.def Info: logmstar_redshift.pdf used on input line 184.
+Package pdftex.def Info: logmstar_redshift.pdf used on input line 183.
 (pdftex.def)             Requested size: 192.00073pt x 153.59982pt.
- <reff_redshift.pdf, id=142, 361.35pt x 289.08pt>
+ <reff_redshift.pdf, id=144, 361.35pt x 289.08pt>
 File: reff_redshift.pdf Graphic file (type pdf)
 
 <use reff_redshift.pdf>
-Package pdftex.def Info: reff_redshift.pdf used on input line 185.
+Package pdftex.def Info: reff_redshift.pdf used on input line 184.
 (pdftex.def)             Requested size: 192.00073pt x 153.59982pt.
 
 
-LaTeX Warning: Reference `lastpage' on page 2 undefined on input line 204.
+LaTeX Warning: Reference `lastpage' on page 2 undefined on input line 199.
 
 [2pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
 as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.204 
-      ] <esd.pdf, id=201, 433.62pt x 289.08pt>
+l.199 \end{equation}
+                    ]
+Underfull \vbox (badness 2980) has occurred while \output is active []
+
+LaTeX Font Info:    Try loading font information for OT1+txtt on input line 230
+.
+
+(/opt/local/share/texmf-texlive/tex/latex/txfonts/ot1txtt.fd
+File: ot1txtt.fd 2000/12/15 v3.1
+)
+
+Package natbib Warning: Citation `foreman13' on page 3 undefined on input line 
+230.
+
+<esd.pdf, id=206, 433.62pt x 289.08pt>
 File: esd.pdf Graphic file (type pdf)
  <use esd.pdf>
-Package pdftex.def Info: esd.pdf used on input line 235.
+Package pdftex.def Info: esd.pdf used on input line 246.
 (pdftex.def)             Requested size: 227.99927pt x 151.99864pt.
 
-Underfull \hbox (badness 1565) in paragraph at lines 246--247
-[]\OT1/txr/m/n/9 Our model con-strains the `virial' mass of sub-haloes to
- []
 
-
-LaTeX Warning: Reference `lastpage' on page 3 undefined on input line 267.
+LaTeX Warning: Reference `lastpage' on page 3 undefined on input line 256.
 
 [3pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.267 
+l.256 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.267 
+l.256 
        <./logmstar_redshift.pdf> <./reff_redshift.pdf
 
 pdfTeX warning: /opt/local/bin/pdflatex (file ./reff_redshift.pdf): PDF inclusi
@@ -757,56 +766,58 @@ on: multiple pdfs with page group included in a single page
 
 pdfTeX warning: /opt/local/bin/pdflatex (file ./esd.pdf): PDF inclusion: multip
 le pdfs with page group included in a single page
->] (./udgs_lensing.bbl
+>]
+Underfull \hbox (badness 1565) in paragraph at lines 257--258
+[]\OT1/txr/m/n/9 Our model con-strains the `virial' mass of sub-haloes to
+ []
+
+(./udgs_lensing.bbl
 
 Package hyperref Warning: Suppressing empty link on input line 28.
 
-LaTeX Font Info:    Try loading font information for OT1+txtt on input line 29.
 
-(/opt/local/share/texmf-texlive/tex/latex/txfonts/ot1txtt.fd
-File: ot1txtt.fd 2000/12/15 v3.1
-)
-
-Package hyperref Warning: Suppressing empty link on input line 95.
+Package hyperref Warning: Suppressing empty link on input line 99.
 
 
-Package hyperref Warning: Suppressing empty link on input line 130.
+Package hyperref Warning: Suppressing empty link on input line 128.
 
 
-Package hyperref Warning: Suppressing empty link on input line 190.
+Package hyperref Warning: Suppressing empty link on input line 188.
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 293.
 - LAST -
 Extra skip:0.0pt
 Left:682.0pt/0.0pt
 Right:682.0pt/0.0pt
 Output:682.0pt
 
-
-LaTeX Warning: Reference `lastpage' on page 4 undefined on input line 282.
+LaTeX Warning: Reference `lastpage' on page 4 undefined on input line 293.
 
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 293.
  (./udgs_lensing.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 282.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 293.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 293.
 Package rerunfilecheck Info: File `udgs_lensing.out' has not changed.
 (rerunfilecheck)             Checksum: 0C8E4F3816A02CDBFB6CEB9D0C3AD14B;522.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 293.
  ) 
 Here is how much of TeX's memory you used:
- 10232 strings out of 494185
- 153725 string characters out of 6156888
- 298606 words of memory out of 5000000
- 13307 multiletter control sequences out of 15000+600000
- 59704 words of font info for 149 fonts, out of 8000000 for 9000
+ 10235 strings out of 494185
+ 153748 string characters out of 6156888
+ 303606 words of memory out of 5000000
+ 13309 multiletter control sequences out of 15000+600000
+ 59980 words of font info for 150 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 36i,11n,34p,1800b,357s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,11n,34p,1881b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/opt/local/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</opt/local/share
 /texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/local/share/texm
 f-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/local/share/texmf-texl
@@ -822,10 +833,10 @@ ts/type1/public/txfonts/txsya.pfb></opt/local/share/texmf-texlive/fonts/type1/p
 ublic/txfonts/txtt.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/ut
 mb8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></opt
 /local/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on udgs_lensing.pdf (4 pages, 240169 bytes).
+Output written on udgs_lensing.pdf (4 pages, 242315 bytes).
 PDF statistics:
- 429 PDF objects out of 1000 (max. 8388607)
- 384 compressed objects within 4 object streams
- 53 named destinations out of 1000 (max. 500000)
+ 436 PDF objects out of 1000 (max. 8388607)
+ 391 compressed objects within 4 object streams
+ 54 named destinations out of 1000 (max. 500000)
  80 words of extra memory for PDF output out of 10000 (max. 10000000)
 

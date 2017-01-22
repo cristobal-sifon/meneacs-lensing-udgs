@@ -4,19 +4,20 @@ The top-level auxiliary file: udgs_lensing.aux
 The style file: mnras.bst
 Database file #1: bibliography.bib
 Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "foreman13"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 32 entries,
             2881 wiz_defined-function locations,
-            971 strings with 15284 characters,
-and the built_in function-call counts, 15559 in all, are:
-= -- 1175
-> -- 1266
+            972 strings with 15050 characters,
+and the built_in function-call counts, 15579 in all, are:
+= -- 1181
+> -- 1265
 < -- 64
-+ -- 552
++ -- 551
 - -- 206
-* -- 2041
-:= -- 2502
+* -- 2042
+:= -- 2503
 add.period$ -- 0
 call.type$ -- 32
 change.case$ -- 64
@@ -25,7 +26,7 @@ cite$ -- 32
 duplicate$ -- 719
 empty$ -- 712
 format.name$ -- 308
-if$ -- 2601
+if$ -- 2607
 int.to.chr$ -- 3
 int.to.str$ -- 0
 missing$ -- 32
@@ -37,7 +38,7 @@ purify$ -- 128
 quote$ -- 0
 skip$ -- 407
 stack$ -- 0
-substring$ -- 774
+substring$ -- 782
 swap$ -- 432
 text.length$ -- 128
 text.prefix$ -- 0
@@ -47,4 +48,4 @@ warning$ -- 0
 while$ -- 232
 width$ -- 0
 write$ -- 335
-(There was 1 warning)
+(There were 2 warnings)
