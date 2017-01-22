@@ -1,1 +1,5 @@
-# cluster  ra_bcg  dec_bcg  ra_closest  dec_closest  dist(arcsec)  L_BCG/Lstar
+# cluster  ra_bcg  dec_bcg  ra_closest  dec_closest  dist(arcsec)
+A119          14.06708    -1.25528    14.10428    -1.23846  0.04
+A133          15.67379   -21.88200    15.64467   -21.85838  0.04
+A1781        206.21892    29.77100   206.21914    29.74601  0.02
+A1795        207.21871    26.59300   207.25018    26.58135  0.03

@@ -1,1 +1,0 @@
-/disks/shear7/sifon/cccp/lensing/satellites/sampler.py

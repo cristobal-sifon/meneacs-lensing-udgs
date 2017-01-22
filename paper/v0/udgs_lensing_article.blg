@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/MacPorts 2015_1)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: udgs_lensing_article.aux
+The style file: mnras.bst
+Database file #1: bibliography.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 3 entries,
+            2881 wiz_defined-function locations,
+            746 strings with 6692 characters,
+and the built_in function-call counts, 1596 in all, are:
+= -- 110
+> -- 139
+< -- 6
++ -- 57
+- -- 26
+* -- 204
+:= -- 269
+add.period$ -- 0
+call.type$ -- 3
+change.case$ -- 6
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 69
+empty$ -- 67
+format.name$ -- 32
+if$ -- 259
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 3
+newline$ -- 22
+num.names$ -- 24
+pop$ -- 15
+preamble$ -- 1
+purify$ -- 12
+quote$ -- 0
+skip$ -- 40
+stack$ -- 0
+substring$ -- 72
+swap$ -- 48
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 27
+warning$ -- 0
+while$ -- 24
+width$ -- 0
+write$ -- 42
