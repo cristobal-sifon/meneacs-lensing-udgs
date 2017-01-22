@@ -1,0 +1,1 @@
+# cluster  ra_bcg  dec_bcg  ra_closest  dec_closest  dist(arcsec)  L_BCG/Lstar
