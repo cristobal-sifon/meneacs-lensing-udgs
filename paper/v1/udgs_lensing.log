@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/MacPorts 2015_1) (preloaded format=pdflatex 2015.7.21)  22 JAN 2017 15:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/MacPorts 2015_1) (preloaded format=pdflatex 2015.7.21)  23 JAN 2017 11:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,7 +813,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 293.
 Here is how much of TeX's memory you used:
  10235 strings out of 494185
  153748 string characters out of 6156888
- 303606 words of memory out of 5000000
+ 303630 words of memory out of 5000000
  13309 multiletter control sequences out of 15000+600000
  59980 words of font info for 150 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
@@ -833,7 +833,7 @@ ts/type1/public/txfonts/txsya.pfb></opt/local/share/texmf-texlive/fonts/type1/p
 ublic/txfonts/txtt.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/ut
 mb8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></opt
 /local/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on udgs_lensing.pdf (4 pages, 242315 bytes).
+Output written on udgs_lensing.pdf (4 pages, 242689 bytes).
 PDF statistics:
  436 PDF objects out of 1000 (max. 8388607)
  391 compressed objects within 4 object streams
