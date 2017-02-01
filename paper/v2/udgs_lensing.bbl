@@ -36,6 +36,12 @@
   {10.3847/2041-8205/819/2/L20}, \href
   {http://adsabs.harvard.edu/abs/2016ApJ...819L..20B} {819, L20}
 
+\bibitem[\protect\citeauthoryear{{Dalcanton}, {Spergel}, {Gunn}, {Schmidt}  \&
+  {Schneider}}{{Dalcanton} et~al.}{1997}]{dalcanton97}
+{Dalcanton} J.~J.,  {Spergel} D.~N.,  {Gunn} J.~E.,  {Schmidt} M.,
+  {Schneider} D.~P.,  1997, \mn@doi [\aj] {10.1086/118499}, \href
+  {http://adsabs.harvard.edu/abs/1997AJ....114..635D} {114, 635}
+
 \bibitem[\protect\citeauthoryear{{Di Cintio}, {Brook}, {Dutton}, {Macci{\`o}},
   {Obreja}  \& {Dekel}}{{Di Cintio} et~al.}{2017}]{dicintio17}
 {Di Cintio} A.,  {Brook} C.~B.,  {Dutton} A.~A.,  {Macci{\`o}} A.~V.,  {Obreja}
@@ -48,6 +54,12 @@
   {10.1093/mnras/stu742}, \href
   {http://adsabs.harvard.edu/abs/2014MNRAS.441.3359D} {441, 3359}
 
+\bibitem[\protect\citeauthoryear{{Foreman-Mackey}, {Hogg}, {Lang}  \&
+  {Goodman}}{{Foreman-Mackey} et~al.}{2013}]{foreman13}
+{Foreman-Mackey} D.,  {Hogg} D.~W.,  {Lang} D.,   {Goodman} J.,  2013, \mn@doi
+  [\pasp] {10.1086/670067}, \href
+  {http://adsabs.harvard.edu/abs/2013PASP..125..306F} {125, 306}
+
 \bibitem[\protect\citeauthoryear{{Hoekstra}, {Franx}, {Kuijken}  \&
   {Squires}}{{Hoekstra} et~al.}{1998}]{hoekstra98}
 {Hoekstra} H.,  {Franx} M.,  {Kuijken} K.,   {Squires} G.,  1998, \mn@doi
@@ -59,6 +71,11 @@
 {Hoekstra} H.,  {Herbonnet} R.,  {Muzzin} A.,  {Babul} A.,  {Mahdavi} A.,
   {Viola} M.,   {Cacciato} M.,  2015, \mn@doi [\mnras] {10.1093/mnras/stv275},
   \href {http://adsabs.harvard.edu/abs/2015MNRAS.449..685H} {449, 685}
+
+\bibitem[\protect\citeauthoryear{{Impey}, {Bothun}  \& {Malin}}{{Impey}
+  et~al.}{1988}]{impey88}
+{Impey} C.,  {Bothun} G.,   {Malin} D.,  1988, \mn@doi [\apj] {10.1086/166500},
+  \href {http://adsabs.harvard.edu/abs/1988ApJ...330..634I} {330, 634}
 
 \bibitem[\protect\citeauthoryear{{Kaiser}, {Squires}  \& {Broadhurst}}{{Kaiser}
   et~al.}{1995}]{kaiser95}
@@ -151,6 +168,12 @@
 {Sif{\'o}n} C.,  {Herbonnet} R.,  {Hoekstra} H.,  {Cacciato} M.,  {van der
   Burg} R.~F.~J.,  {Viola} M.,  {Sand} D.~J.,   {Graham} M.~L.,  2017, in
   preparation
+
+\bibitem[\protect\citeauthoryear{{Turner}, {Phillipps}, {Davies}  \&
+  {Disney}}{{Turner} et~al.}{1993}]{turner93}
+{Turner} J.~A.,  {Phillipps} S.,  {Davies} J.~I.,   {Disney} M.~J.,  1993,
+  \mn@doi [\mnras] {10.1093/mnras/261.1.39}, \href
+  {http://adsabs.harvard.edu/abs/1993MNRAS.261...39T} {261, 39}
 
 \bibitem[\protect\citeauthoryear{{Yagi}, {Koda}, {Komiyama}  \&
   {Yamanoi}}{{Yagi} et~al.}{2016}]{yagi16}
