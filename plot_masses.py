@@ -16,29 +16,15 @@ cosmology.h = 0.7
 cosmology.Omega_M = 0.315
 cosmology.Omega_L = 1 - cosmology.Omega_M
 
+import plottools
+plottools.update_rcParams()
+
 # local
 from model_components.concentration import moline16
 import pytools
 
 # until a newer matplotlib is available
 import colormaps
-
-from matplotlib import rcParams
-for tick in ('xtick', 'ytick'):
-    rcParams['{0}.major.size'.format(tick)] = 8
-    rcParams['{0}.minor.size'.format(tick)] = 4
-    rcParams['{0}.major.width'.format(tick)] = 2
-    rcParams['{0}.minor.width'.format(tick)] = 2
-    rcParams['{0}.labelsize'.format(tick)] = 20
-rcParams['axes.linewidth'] = 2
-rcParams['axes.labelsize'] = 22
-rcParams['font.size'] = 22
-rcParams['legend.fontsize'] = 18
-rcParams['lines.linewidth'] = 2
-rcParams['mathtext.fontset'] = 'stix'
-rcParams['pdf.use14corefonts'] = True
-rcParams['text.usetex'] = True
-rcParams['text.latex.preamble']=[r'\usepackage{amsmath}']
 
 red = (1,0,0)
 green = (0.2,0.6,0)

@@ -1,0 +1,9 @@
+# the first column is the redshift, all remaining columns are the std logmstar in bins of distBCG
+# xbins = 0.000,0.100,0.200,0.300,0.400,0.500,0.600,0.700,0.800,0.900,1.000,1.100,1.200,1.300,1.400,1.500,1.600,1.700,1.800,1.900,2.000
+0.030  nan  8.610  8.650  8.495  8.650  nan  8.357  8.346  8.142  8.458  nan  8.838  9.108  8.814  8.951  nan  0.288  0.369  0.280  0.322
+0.050  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+0.070  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+0.090  8.270  8.275  8.120  8.020  8.145  7.807  7.890  7.892  7.800  7.740  8.488  8.506  8.372  8.626  8.876  0.391  0.296  0.242  0.421  0.541
+0.110  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+0.130  8.180  8.245  8.380  8.320  nan  7.951  8.033  8.144  7.981  nan  8.770  8.606  8.651  8.625  nan  0.423  0.364  0.327  0.390  nan
+0.150  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan

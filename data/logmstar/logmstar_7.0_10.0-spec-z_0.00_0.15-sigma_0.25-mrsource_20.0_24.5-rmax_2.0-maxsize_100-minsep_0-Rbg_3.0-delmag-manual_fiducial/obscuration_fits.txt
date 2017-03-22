@@ -1,0 +1,5 @@
+# This file contains the best-fit obscurations for each parameter.
+Columns are: (1) parameter; (2) function (from `fitting_functions`); (3) and (4): minimum and maximum distances used in the fit; (5) onwards: best-fit parameters and their uncertainties.
+#
+dbcg        inverse        0.500  24.500  3.0955e-01  8.1153e-01  3.1007e-02  1.0298e-02  3.6564e-02  5.6543e-03
+Rbcg        cored          0.050   2.950  3.5068e-02  3.7089e-02  4.1828e-02  1.4127e-02  5.9539e-03  5.1393e-03

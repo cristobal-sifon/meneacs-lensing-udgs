@@ -1,0 +1,9 @@
+# the first column is the redshift, all remaining columns are the std reff in bins of logmstar
+# xbins = 8.000,8.100,8.200,8.300,8.400,8.500,8.600,8.700,8.800,8.900,9.000,9.100,9.200,9.300,9.400,9.500,9.600,9.700,9.800,9.900,10.000,10.100,10.200,10.300,10.400,10.500,10.600,10.700,10.800,10.900,11.000,11.100,11.200,11.300,11.400,11.500,11.600,11.700,11.800,11.900,12.000
+0.030  3.162  3.618  3.821  nan  nan  nan  nan  nan  nan  nan  3.020  3.238  3.323  nan  nan  nan  nan  nan  nan  nan  3.377  4.142  4.394  nan  nan  nan  nan  nan  nan  nan  0.185  0.656  0.774  nan  nan  nan  nan  nan  nan  nan
+0.050  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+0.070  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+0.090  2.377  2.729  4.185  nan  nan  nan  nan  nan  nan  nan  2.135  2.319  4.185  nan  nan  nan  nan  nan  nan  nan  2.823  3.065  4.185  nan  nan  nan  nan  nan  nan  nan  0.624  0.571  0.000  nan  nan  nan  nan  nan  nan  nan
+0.110  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+0.130  3.462  3.453  4.871  nan  nan  nan  nan  nan  nan  nan  2.568  3.111  4.590  nan  nan  nan  nan  nan  nan  nan  4.160  3.995  6.041  nan  nan  nan  nan  nan  nan  nan  0.807  0.581  1.132  nan  nan  nan  nan  nan  nan  nan
+0.150  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan

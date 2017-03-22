@@ -2,29 +2,16 @@
 import numpy
 import pyfits
 import pylab
+from matplotlib import colors as mplcolors, cm, ticker
+
+# my code
+import lnr
+import plottools
 from astro import cosmology
 from astro.clusters import conversions
 from astro.ggl import nfw
-from matplotlib import colors as mplcolors, cm, ticker
 
-import lnr
-
-from matplotlib import rcParams
-for tick in ('xtick', 'ytick'):
-    rcParams['{0}.major.size'.format(tick)] = 8
-    rcParams['{0}.minor.size'.format(tick)] = 4
-    rcParams['{0}.major.width'.format(tick)] = 2
-    rcParams['{0}.minor.width'.format(tick)] = 2
-    rcParams['{0}.labelsize'.format(tick)] = 20
-rcParams['axes.linewidth'] = 2
-rcParams['axes.labelsize'] = 22
-rcParams['font.size'] = 28
-rcParams['legend.fontsize'] = 18
-rcParams['lines.linewidth'] = 2
-rcParams['mathtext.fontset'] = 'stix'
-rcParams['pdf.use14corefonts'] = True
-rcParams['text.usetex'] = True
-rcParams['text.latex.preamble']=[r'\usepackage{amsmath}']
+plottools.update_rcParams()
 
 red = (1,0,0)
 green = (0.2,0.6,0)

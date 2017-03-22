@@ -1,0 +1,233 @@
+
+123 clusters to start with
+91 clusters in the selected sample
+46 clusters pass the redshift cut
+
+A1033: Satellite catalog catalogs/20160716/good/A1033_good_udgs.cat not available
+A1068: Satellite catalog catalogs/20160716/good/A1068_good_udgs.cat not available
+A1132: Satellite catalog catalogs/20160716/good/A1132_good_udgs.cat not available
+A119: 5745 simulated lenses
+A119: 62333/145408 valid sources
+A119: 3286/62333 obscured valid sources
+A119: 35940/62333 sources within 0.42 deg of the BCG
+A1285: Satellite catalog catalogs/20160716/good/A1285_good_udgs.cat not available
+A133: 3731 simulated lenses
+A133: 60493/140120 valid sources
+A133: 2495/60493 obscured valid sources
+A133: 34894/60493 sources within 0.42 deg of the BCG
+A1361: Satellite catalog catalogs/20160716/good/A1361_good_udgs.cat not available
+A1413: Satellite catalog catalogs/20160716/good/A1413_good_udgs.cat not available
+A1650: 1965 simulated lenses
+A1650: 56281/136466 valid sources
+A1650: 3805/56281 obscured valid sources
+A1650: 32389/56281 sources within 0.42 deg of the BCG
+A1651: 1439 simulated lenses
+A1651: 43609/97804 valid sources
+A1651: 3047/43609 obscured valid sources
+A1651: 25278/43609 sources within 0.42 deg of the BCG
+A1781: 1721 simulated lenses
+A1781: 58691/142372 valid sources
+A1781: 1670/58691 obscured valid sources
+A1781: 33914/58691 sources within 0.42 deg of the BCG
+A1795: 3279 simulated lenses
+A1795: 60386/139312 valid sources
+A1795: 2671/60386 obscured valid sources
+A1795: 34878/60386 sources within 0.42 deg of the BCG
+A1927: Satellite catalog catalogs/20160716/good/A1927_good_udgs.cat not available
+A1991: 2936 simulated lenses
+A1991: 60857/137347 valid sources
+A1991: 2433/60857 obscured valid sources
+A1991: 35076/60857 sources within 0.42 deg of the BCG
+A2029: 2030 simulated lenses
+A2029: 62615/150455 valid sources
+A2029: 3051/62615 obscured valid sources
+A2029: 36173/62615 sources within 0.42 deg of the BCG
+A2033: 2055 simulated lenses
+A2033: 64748/167574 valid sources
+A2033: 2755/64748 obscured valid sources
+A2033: 37357/64748 sources within 0.42 deg of the BCG
+A2050: Satellite catalog catalogs/20160716/good/A2050_good_udgs.cat not available
+A2055: Satellite catalog catalogs/20160716/good/A2055_good_udgs.cat not available
+A2064: Satellite catalog catalogs/20160716/good/A2064_good_udgs.cat not available
+A2065: 2593 simulated lenses
+A2065: 62776/159618 valid sources
+A2065: 3397/62776 obscured valid sources
+A2065: 36249/62776 sources within 0.42 deg of the BCG
+A2069: Satellite catalog catalogs/20160716/good/A2069_good_udgs.cat not available
+A2142: 2894 simulated lenses
+A2142: 64270/164144 valid sources
+A2142: 4609/64270 obscured valid sources
+A2142: 37101/64270 sources within 0.42 deg of the BCG
+A2319: Extinction 0.255 too high
+A2409: Extinction 0.243 too high
+A2440: Satellite catalog catalogs/20160716/good/A2440_good_udgs.cat not available
+A2495: 1916 simulated lenses
+A2495: 64053/155397 valid sources
+A2495: 2691/64053 obscured valid sources
+A2495: 36904/64053 sources within 0.42 deg of the BCG
+A2597: 1530 simulated lenses
+A2597: 59797/127614 valid sources
+A2597: 2497/59797 obscured valid sources
+A2597: 34404/59797 sources within 0.42 deg of the BCG
+A2670: 1838 simulated lenses
+A2670: 54437/119194 valid sources
+A2670: 2978/54437 obscured valid sources
+A2670: 31397/54437 sources within 0.42 deg of the BCG
+A2703: Satellite catalog catalogs/20160716/good/A2703_good_udgs.cat not available
+A399: Extinction 0.369 too high
+A401: Extinction 0.353 too high
+A553: Extinction 0.353 too high
+A644: Extinction 0.271 too high
+A646: Satellite catalog catalogs/20160716/good/A646_good_udgs.cat not available
+A655: Satellite catalog catalogs/20160716/good/A655_good_udgs.cat not available
+A754: Satellite catalog catalogs/20160716/good/A754_good_udgs.cat not available
+A780: 2554 simulated lenses
+A780: 52264/118512 valid sources
+A780: 2721/52264 obscured valid sources
+A780: 30182/52264 sources within 0.42 deg of the BCG
+A795: Satellite catalog catalogs/20160716/good/A795_good_udgs.cat not available
+A85: 4163 simulated lenses
+A85: 63110/145922 valid sources
+A85: 2699/63110 obscured valid sources
+A85: 36456/63110 sources within 0.42 deg of the BCG
+A961: Satellite catalog catalogs/20160716/good/A961_good_udgs.cat not available
+A990: Satellite catalog catalogs/20160716/good/A990_good_udgs.cat not available
+MKW3S: 5881 simulated lenses
+MKW3S: 63106/156577 valid sources
+MKW3S: 2133/63106 obscured valid sources
+MKW3S: 36450/63106 sources within 0.42 deg of the BCG
+RXJ0736: Satellite catalog catalogs/20160716/good/RXJ0736_good_udgs.cat not available
+ZWCL0628: Extinction 0.721 too high
+ZWCL1023: Satellite catalog catalogs/20160716/good/ZWCL1023_good_udgs.cat not available
+ZWCL1215: 1472 simulated lenses
+ZWCL1215: 48062/109293 valid sources
+ZWCL1215: 3063/48062 obscured valid sources
+ZWCL1215: 27745/48062 sources within 0.42 deg of the BCG
+Loaded data for all 18 clusters in 2.70 minutes
+Unused: ['A1033,nolens', 'A1068,nolens', 'A1132,nolens', 'A1285,nolens', 'A1361,nolens', 'A1413,nolens', 'A1927,nolens', 'A2050,nolens', 'A2055,nolens', 'A2064,nolens', 'A2069,nolens', 'A2319,highAr', 'A2409,highAr', 'A2440,nolens', 'A2703,nolens', 'A399,highAr', 'A401,highAr', 'A553,highAr', 'A644,highAr', 'A646,nolens', 'A655,nolens', 'A754,nolens', 'A795,nolens', 'A961,nolens', 'A990,nolens', 'RXJ0736,nolens', 'ZWCL0628,highAr', 'ZWCL1023,nolens']
+
+***
+*** Doing full run
+***
+
+Saved per-bin histograms for ('logGFsize', 'logmstar') in 0.08 seconds
+Saved to data/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist2d/two_logGFsize_logmstar_fit.txt
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/two_logGFsize_logmstar in 9.50 seconds
+Saved per-bin histograms for ('distBCG', 'logGFsize') in 0.10 seconds
+Saved to data/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist2d/two_distBCG_logGFsize_fit.txt
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/two_distBCG_logGFsize in 8.33 seconds
+Saved per-bin histograms for ('distBCG', 'logmstar') in 0.21 seconds
+Saved to data/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist2d/two_distBCG_logmstar_fit.txt
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/two_distBCG_logmstar in 7.73 seconds
+Saved per-bin histograms for ('logmstar', 'reff') in 0.13 seconds
+Saved to data/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist2d/two_logmstar_reff_fit.txt
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/two_logmstar_reff in 7.65 seconds
+
+***
+
+A119: Bfit = 4.000e-01 1.000e-01 1.100e+00
+A119: Bfit_err = inf inf inf
+A119 (z=0.044): Finished in 20.69 seconds
+A119: Total 82 satellites in 1 clusters
+Flattening values ['redshift', 'theta', 'logmstar'] ...
+Flattened 70 values in 0.88 seconds
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-redshift in 1.08 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-logmstar in 1.47 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/esd_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/gt_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_theta
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_r
+A133: Bfit = 4.000e-01 1.000e-01 1.100e+00
+A133: Bfit_err = inf inf inf
+A133 (z=0.057): Finished in 19.54 seconds
+A133: Total 155 satellites in 2 clusters
+Flattening values ['redshift', 'theta', 'logmstar'] ...
+Flattened 70 values in 1.48 seconds
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-redshift in 0.89 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-logmstar in 1.43 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/esd_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/gt_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_theta
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_r
+A1650: Bfit = 4.000e-01 1.000e-01 1.100e+00
+A1650: Bfit_err = inf inf inf
+A1650 (z=0.084): Finished in 19.13 seconds
+A1650: Total 170 satellites in 3 clusters
+Flattening values ['redshift', 'theta', 'logmstar'] ...
+Flattened 70 values in 1.85 seconds
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-redshift in 1.55 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-logmstar in 1.34 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/esd_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/gt_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_theta
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_r
+A1651: Bfit = 4.000e-01 1.000e-01 1.100e+00
+A1651: Bfit_err = inf inf inf
+A1651 (z=0.085): Finished in 20.23 seconds
+A1651: Total 203 satellites in 4 clusters
+Flattening values ['redshift', 'theta', 'logmstar'] ...
+Flattened 70 values in 1.98 seconds
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-redshift in 1.10 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-logmstar in 1.66 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/esd_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/gt_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_theta
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_r
+A1781: Bfit = 4.000e-01 1.000e-01 1.100e+00
+A1781: Bfit_err = inf inf inf
+A1781 (z=0.062): Finished in 8.32 seconds
+A1781: Total 223 satellites in 5 clusters
+Flattening values ['redshift', 'theta', 'logmstar'] ...
+Flattened 70 values in 1.70 seconds
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-redshift in 1.08 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-logmstar in 1.49 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/esd_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/gt_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_theta
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_r
+A1795: Bfit = 4.000e-01 1.000e-01 1.100e+00
+A1795: Bfit_err = inf inf inf
+A1795 (z=0.062): Finished in 22.08 seconds
+A1795: Total 329 satellites in 6 clusters
+Flattening values ['redshift', 'theta', 'logmstar'] ...
+Flattened 70 values in 2.83 seconds
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-redshift in 1.46 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-logmstar in 1.49 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/esd_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/gt_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_theta
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_r
+A1991: Bfit = 4.000e-01 1.000e-01 1.100e+00
+A1991: Bfit_err = inf inf inf
+A1991 (z=0.059): Finished in 18.82 seconds
+A1991: Total 361 satellites in 7 clusters
+Flattening values ['redshift', 'theta', 'logmstar'] ...
+Flattened 70 values in 3.17 seconds
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-redshift in 0.95 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-logmstar in 1.29 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/esd_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/gt_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_theta
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_r
+A2029: Bfit = 4.000e-01 1.000e-01 1.100e+00
+A2029: Bfit_err = inf inf inf
+A2029 (z=0.077): Finished in 18.75 seconds
+A2029: Total 386 satellites in 8 clusters
+Flattening values ['redshift', 'theta', 'logmstar'] ...
+Flattened 70 values in 3.12 seconds
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-redshift in 1.49 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-logmstar in 1.54 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/esd_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/gt_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_theta
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/separation_r
+A2033: Bfit = 4.000e-01 1.000e-01 1.100e+00
+A2033: Bfit_err = inf inf inf
+A2033 (z=0.082): Finished in 21.44 seconds
+A2033: Total 411 satellites in 9 clusters
+Flattening values ['redshift', 'theta', 'logmstar'] ...
+Flattened 70 values in 3.46 seconds
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-redshift in 1.00 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/hist-logmstar in 1.95 s
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/esd_noboost
+Saved to plots/pipeline/logmstar/logmstar_7.0_10.0-spec-z_0.00_0.15-sigma_0.25-mrsource_20.0_24.5-rmax_2.0-maxsize_100-minsep_0-Rbg_3.0-delmag-manual_fiducial/gt_noboost

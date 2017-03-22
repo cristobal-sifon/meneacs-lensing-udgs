@@ -1,0 +1,5 @@
+# pivot  a  a_err  b  b_err  cov_ab  std
+# the fit is of the form:
+#    y = a + b*(x-pivot)
+# and std is the scatter in y at fixed x
+49.390  -5.100e+00  4.196e-11  5.008e-10  1.162e-12  3.742e-24  0.00

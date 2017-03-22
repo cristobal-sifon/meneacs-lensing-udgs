@@ -2,10 +2,12 @@
 import numpy
 import pylab
 
+import plottools
 from astro import cosmology
 from astro.clusters import conversions
 from kids_ggl_pipeline.halomodel import nfw
 from kids_ggl_pipeline.halomodel.utils import density_average
+plottools.update_rcParams()
 
 # local
 from model_components.concentration import moline16
@@ -13,23 +15,6 @@ import pytools
 
 # until a newer matplotlib is available
 import colormaps
-
-from matplotlib import rcParams
-for tick in ('xtick', 'ytick'):
-    rcParams['{0}.major.size'.format(tick)] = 8
-    rcParams['{0}.minor.size'.format(tick)] = 4
-    rcParams['{0}.major.width'.format(tick)] = 2
-    rcParams['{0}.minor.width'.format(tick)] = 2
-    rcParams['{0}.labelsize'.format(tick)] = 20
-rcParams['axes.linewidth'] = 2
-rcParams['axes.labelsize'] = 22
-rcParams['font.size'] = 22
-rcParams['legend.fontsize'] = 18
-rcParams['lines.linewidth'] = 2
-rcParams['mathtext.fontset'] = 'stix'
-rcParams['pdf.use14corefonts'] = True
-rcParams['text.usetex'] = True
-rcParams['text.latex.preamble']=[r'\usepackage{amsmath}']
 
 red = (1,0,0)
 green = (0.2,0.6,0)
@@ -68,7 +53,8 @@ def plot(mr, r, z, ax=None, cbins=numpy.linspace(10, 20, 11),
                  cmap=colormaps.viridis, interpolation='nearest')
     pylab.colorbar()
     fig.tight_layout(pad=0.4)
-    pylab.show()
+    output = os.path.join('plots/esd_overplot.pdf')
+    plottools.savefi(output, fig=fig)
     return
 
 
